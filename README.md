@@ -7,15 +7,17 @@ D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dom
 
 All rights, including copyright, in the content of the original articles are owned by the BBC.
 
-* Consists of 2225 documents from the [BBC](http://news.bbc.co.uk/) news website corresponding to stories in five topical areas published during 2004-2005.
+* Consists of 2225 documents from the [BBC](http://news.bbc.co.uk/) news website corresponding to articles in five topical areas published during 2004-2005. 
 * 5 annotated class labels: business, entertainment, politics, sport, tech
+* Each article is stored in a separate text file and articles are divided into sub-directories by class.
 
 ## Dataset: BBCSport
 
 All rights, including copyright, in the content of the original articles are owned by the BBC.
 
-* Consists of 737 documents from the [BBC Sport](http://news.bbc.co.uk/sport1/hi/default.stm) website corresponding to sports news articles in five topical areas published during 2004-2005.
+* Consists of 737 documents from the [BBC Sport](http://news.bbc.co.uk/sport1/hi/default.stm) website corresponding to sports news articles in five topical areas published during 2004-2005. 
 * 5 annotated class labels: athletics, cricket, football, rugby, tennis
+* Each article is stored in a separate text file and articles are divided into sub-directories by class.
 
 ## Contact
 
